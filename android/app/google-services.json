@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "703714350759",
+    "firebase_url": "https://reactapp-447ad.firebaseio.com",
+    "project_id": "reactapp-447ad",
+    "storage_bucket": "reactapp-447ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703714350759:android:dcf78e25207db9de90ed82",
+        "android_client_info": {
+          "package_name": "com.reactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703714350759-1s0hqovjgrb7gp6u4h3ojg9q4p1fl67i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactapp",
+            "certificate_hash": "157470b37334045d1f4748f644cf7cc2b312c264"
+          }
+        },
+        {
+          "client_id": "703714350759-sjhq3pl78mts97lm65895kk6ee908j4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPguKtc9pZFbTjeSCkhdg-5kMSHM1zj28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703714350759-sjhq3pl78mts97lm65895kk6ee908j4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "703714350759-avu7dtm2ejfhv71tka6hqj8jkqu410vj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.reactapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703714350759:android:d6aa5f43ed06011b90ed82",
+        "android_client_info": {
+          "package_name": "com.wemeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703714350759-pbfce08c0mi6mnjfud9h9cj9ie1cm1k0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wemeet",
+            "certificate_hash": "157470b37334045d1f4748f644cf7cc2b312c264"
+          }
+        },
+        {
+          "client_id": "703714350759-sjhq3pl78mts97lm65895kk6ee908j4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPguKtc9pZFbTjeSCkhdg-5kMSHM1zj28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703714350759-sjhq3pl78mts97lm65895kk6ee908j4e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "703714350759-avu7dtm2ejfhv71tka6hqj8jkqu410vj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.reactapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
